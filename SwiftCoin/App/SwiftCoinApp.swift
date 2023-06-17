@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftCoinApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
+//            HomeView()
         }
     }
 }
